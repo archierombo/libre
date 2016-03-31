@@ -70,13 +70,9 @@
     </div><!--slideshow-->
     <div class="clearfix">&nbsp;</div>
     <div class="row"><!--about us home-->
-        <div class="col-sm-12 col-md-12">
-            <p style="font-size: 12px;
-color: #777777;
-font-family: 'Montserrat', sans-serif;
-font-weight: 400;
-line-height: 22px;
-margin: 0 0 10px;">es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum</p>
+
+        <div class="col-sm-10 col-md-10 col-md-offset-1 col-sm-offset-1">
+            <p style="font-size: 12px;color: #777777;font-family: 'Montserrat', sans-serif;font-weight: 400;line-height: 22px;margin: 0 0 10px;">es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum</p>
         </div>
     </div><!--about us home-->
 </div><!--main body container-->
